@@ -1,10 +1,13 @@
-The source of my CV written using LaTeX + ModernCV Letter.
-How to build it?
+#Curriculum vitae escrito en LaTeX
+La fuente de mi CV VITAE está escrito en LaTex + Plantilla
+ModernCV 
 
-If you have docker installed:
+Como construirlo?
 
-make
+**make
 
-If you don't, you will need to manually install
-texlive-latex-extra texlive-fonts-recommended and later compile
-the document as usual.
+Si no se ejecuta, tendrá que instalar 
+texlive-latex-extra texlive-fonts-recommended 
+y despues compilar el documento actual con **make
+
+
